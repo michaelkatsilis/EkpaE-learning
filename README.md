@@ -1,2 +1,2 @@
-# EkpaE-learning
+# Example of README.md
 ## Michael Katsilis
